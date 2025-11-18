@@ -152,7 +152,7 @@ export default function Booking() {
   };
 
 
-  console.log("Received bookingData:", bookingData);
+  // console.log("Received bookingData:", bookingData);
 
 
 
